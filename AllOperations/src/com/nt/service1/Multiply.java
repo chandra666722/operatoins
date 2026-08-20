@@ -7,7 +7,7 @@ public class Multiply {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		new Multiply().multiply(10, 10);
+		new Multiply().multiply(10, 100);
 
 	}
 
