@@ -8,7 +8,21 @@ public class Multiply {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		new Multiply().multiply(10, 100);
+<<<<<<< HEAD
          System.out.println(10);
+=======
+		System.out.println();
+
+
+		System.out.println("y");
+		System.out.println("s");
+		System.out.println();
+
+
+
+
+
+>>>>>>> refs/heads/chandra1
 	}
 
 }
