@@ -9,6 +9,7 @@ public class Multiply {
 		// TODO Auto-generated method stub
 		new Multiply().multiply(10, 100);
 		System.out.println();
+		System.out.println("y");
 
 	}
 
